@@ -16,15 +16,15 @@ The dataset used in this project contains images around 5000 images and consists
 4. ModerateDemented
 
 # Data Analysis and Preprocessing
-•	Data exploration
-•	Data visualization to understand feature distributions and relationships.
-•	To standardize image format and quality, applied techniques such as Resizing, Color Space Conversion, Normalization
-•	Upsampling techniques
-•	Data splitting for training and testing.
+- Data exploration and description.
+- Data visualization to understand feature distributions and relationships.
+- To standardize image format and quality, applied techniques such as Resizing Color Space Conversion, Normalization
+- Upsampling techniques
+- Data splitting for training and testing.
 
 
 # Model Building and Evaluation
-•	Exploration of different models (including Logistic Regression and SVM) and selection of the Convolutional Neural Network (CNN) model.
-•	Model training and optimization.
-•	Evaluation metrics, including precision, recall, accuracy.
+- Exploration of different models (including Logistic Regression and SVM) and selection of the Convolutional Neural Network (CNN) model.
+- Model training and optimization.
+- Evaluation metrics, including precision, recall, accuracy.
 
