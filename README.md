@@ -15,6 +15,7 @@ The dataset used in this project contains images around 5000 images and consists
 3. NonDemented
 4. ModerateDemented
 
+# I. Comparative Analysis- Logistic Regression, SVM, CNN
 # Data Analysis and Preprocessing
 - Data exploration and description.
 - Data visualization to understand feature distributions and relationships.
@@ -28,3 +29,8 @@ The dataset used in this project contains images around 5000 images and consists
 - Model training and optimization.
 - Evaluation metrics, including precision, recall, accuracy.
 
+# II. Segmentation Based Approach
+-Preprocessing Techniques- Gray-scale conversion, Median filter, Morphological operations
+-Processing Stage- Threshold segmentation, Complementing, Watershed segmentation
+-Post Processing Stage- Maximum Stable Extremal Regions and K-means Clustering
+-Evaluation metrics- PSNR, SSIM MSER Count for stage detection
