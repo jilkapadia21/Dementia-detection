@@ -30,7 +30,7 @@ The dataset used in this project contains images around 5000 images and consists
 - Evaluation metrics, including precision, recall, accuracy.
 
 # II. Segmentation Based Approach
--Preprocessing Techniques- Gray-scale conversion, Median filter, Morphological operations
--Processing Stage- Threshold segmentation, Complementing, Watershed segmentation
--Post Processing Stage- Maximum Stable Extremal Regions and K-means Clustering
--Evaluation metrics- PSNR, SSIM MSER Count for stage detection
+- Preprocessing Techniques- Gray-scale conversion, Median filter, Morphological operations
+- Processing Stage- Threshold segmentation, Complementing, Watershed segmentation
+- Post Processing Stage- Maximum Stable Extremal Regions and K-means Clustering
+- Evaluation metrics- PSNR, SSIM MSER Count for stage detection
